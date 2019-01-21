@@ -1,3 +1,11 @@
+/* Title: Satellite Velocity Calculator
+ * Author: Alessandro Lou 
+ * Date: 1/20/2019
+ * Book: An Introduction to Object-Oriented Programming with Java (5th Adition)
+ * Exercise: Chapter Three, Level 2 Programming Exercise
+ */
+
+
 package Chapter3;
 
 public class exercise15 {
