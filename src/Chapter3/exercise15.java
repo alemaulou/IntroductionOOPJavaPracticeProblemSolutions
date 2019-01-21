@@ -9,7 +9,7 @@
 package Chapter3;
 
 public class exercise15 {
-    // Symbolic constants for MASS_OF_EARTH and FORCE_OF_GRAVITY
+    // Symbolic constants for MASS_OF_EARTH and FORCE_OF_GRAVITY.
     public static final double MASS_OF_EARTH = 5.98 * Math.pow(10, 24);
     public static final double FORCE_OF_GRAVITY = 6.67 * Math.pow(10, -11);
 
