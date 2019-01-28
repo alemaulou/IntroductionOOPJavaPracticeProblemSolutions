@@ -13,11 +13,7 @@ public class RoomWinner {
         one.spin();
         two.spin();
         three.spin();
-        
-        
-        List<Integer> values = new ArrayList<Integer>();
-        
-        
+       
         System.out.println(one.getNumber() + " , " + one.getColor() + " , " + two.getNumber() + " , " + two.getColor() + " , " + three.getNumber() + " , " + three.getColor());
     }
 }
