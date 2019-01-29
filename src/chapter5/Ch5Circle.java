@@ -60,5 +60,5 @@ public class Ch5Circle {
     
     private boolean isRadiusValid() {
         return radius != INVALID_DIMENSION;
-    }
+    }   
 }
